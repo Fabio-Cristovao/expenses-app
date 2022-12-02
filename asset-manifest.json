@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenses-app/static/css/main.2ae39636.css",
+    "main.js": "/expenses-app/static/js/main.bf8f3ab0.js",
+    "index.html": "/expenses-app/index.html",
+    "main.2ae39636.css.map": "/expenses-app/static/css/main.2ae39636.css.map",
+    "main.bf8f3ab0.js.map": "/expenses-app/static/js/main.bf8f3ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae39636.css",
+    "static/js/main.bf8f3ab0.js"
+  ]
+}
